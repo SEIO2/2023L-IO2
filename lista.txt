@@ -4,6 +4,6 @@
 4. Piotr Kotynia
 5. Szymon Kurpas
 6. Filip Suchorab
-7. Michał Wdowski
-8. Wiktor Wołek
-9. Anatolii Radionov
+7. Anatolii Radionov
+8. Michał Wdowski
+9. Wiktor Wołek 
