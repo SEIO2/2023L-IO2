@@ -1,5 +1,6 @@
 1. Jakub Borek
 2. Maciej Kordyaczny
 3. Piotr Kotynia
-4. Filip Suchorab
-5. Michał Wdowski
+4. Szymon Kurpas
+5. Filip Suchorab
+6. Michał Wdowski
