@@ -1,8 +1,9 @@
 1. Jakub Borek
-2. Maciej Kordyaczny
-3. Laura Korona
-4. Piotr Kotynia
-5. Szymon Kurpas
+2. Piotr Kawa
+3. Maciej Kordyaczny
+4. Laura Korona
+5. Piotr Kotynia
+6. Szymon Kurpas
 7. Damian Lubaszka
 8. Anatolii Radionov 
 9. Filip Suchorab
